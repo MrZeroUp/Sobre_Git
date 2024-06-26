@@ -2,10 +2,10 @@
 | System off |
 --------------
 
-Insira seu Email
+Insert Email
 -> 
 
-Insira sua Senha
+Insert Pass
 -> 
 
-...
+... Loading
